@@ -1,6 +1,4 @@
 
-
-import React, { useState, useEffect } from 'react';
 import Spinner from './Spinner';
 import useGif from '../hooks/useGif';
 
